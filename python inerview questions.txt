@@ -1,0 +1,20 @@
+1. Name four of the main data types in Python?
+2. What is the difference between Mutable datatype and Immutable datatype?
+3. What is polymorphism?
+4. Which function overloads the >> operator?
+5. What is the value of the expression 100 / 25?
+6. Which operator is overloaded by the or() function?
+7. What is the order of precedence in python?
+8. Operators with the same precedence are evaluated in which manner?
+9. Given a function that does not return any value, what value is shown when executed at the shell?
+10. What are the three main conditional statements in Python?
+11. How are if, elif, and else blocks defined?
+12. What is the optimal statement used in a try except statement in Python?
+13. What is used to create unicode string in Python?
+14.  What is the statement in a Python that can be used if a statement is required syntactically but the program requires no action?
+15. When you need ordered container of things, which will be manipulated, use lists.
+16. Does python support switch or case statement in python? If no wht is the reason for same?
+17. What is the java implementation of Python popularly known as?
+18. Differentiate between List and Tuple?
+19. How memory management is done in Python?
+20. What is namespace in Python?
